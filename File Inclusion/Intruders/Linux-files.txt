@@ -16,6 +16,10 @@
 /etc/init.d/apache2
 /etc/mysql/my.cnf
 /etc/nginx.conf
+/etc/nginx/nginx.conf
+/etc/nginx/sites-available/default
+/etc/nginx/sites-enabled/default
+/etc/pam.d/proftpd
 /opt/lampp/logs/access_log
 /opt/lampp/logs/error_log
 /opt/lamp/log/access_log
